@@ -2,83 +2,25 @@
     "pokemons": [
     {
     "name": "Pikachu",
-    "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png"
+    "image_url": ""
     },
     {
-    "name": "Charmeleon",
-    "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png"
+    "name": "Castor Blvckzik",
+    "image_url": "https://scontent.fmnl13-1.fna.fbcdn.net/v/t39.30808-6/317079367_5479169032130766_243419074790517461_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=9c7eae&_nc_eui2=AeHr-_-us0p2fNyj-xvM_YS8EDATIrFgqoAQMBMisWCqgDci1huouZYiHy-BKt7fyuNCPOtCGFO65UN3ijaeN8V3&_nc_ohc=UoC188SfiCUAX9XVbTG&_nc_ht=scontent.fmnl13-1.fna&oh=00_AfAkF_zqM2ZYaFnjipXyLCW_u6nvHRsYTJCr6oXCoEq0sQ&oe=65A14F23"
     },
     {
-    "name": "Mewtwo",
-    "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png"
+    "name": "BlvckZik",
+    "image_url": "https://scontent.fmnl13-1.fna.fbcdn.net/v/t39.30808-6/212168619_192006652933618_8520095278240550239_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeG1tcpd-1X-BTOzcFhRH6QLJoHcLf1Njdomgdwt_U2N2jp9e6CY6DX1HJQquYBR_uplZeuPP6tq9FUUZm-fgCMt&_nc_ohc=K1x7hqWhJIMAX-ksWWE&_nc_ht=scontent.fmnl13-1.fna&oh=00_AfBfBnEE8i9wtkUrF2QVwh6Ktfx9QXroC-lOz7WgFUT2IQ&oe=65A17EDF"
     },
     {
-    "name": "Caterpie",
-    "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png"
+    "name": "Pollux Blvckzik",
+    "image_url": "https://scontent-nrt1-1.xx.fbcdn.net/v/t39.30808-6/395171002_1027546595125478_6664615379905120965_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeGwgIOOt-hSQq-MANo0TVUqhEM-eK6tJriEQz54rq0muJq4ct_1rN2yme2eLYfrNAEeLuNXYnjZgnjM1KvW92vT&_nc_ohc=THlfUwla9dMAX_Twt0t&_nc_ht=scontent-nrt1-1.xx&oh=00_AfCw9YFHY0Ep0tp15W5YXNh9Lp09FMC9EWpp2jnZeItu2g&oe=65A17C2D"
     },
     {
-    "name": "Squirtle",
-    "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png"
-    },
-    {
-    "name": "Eevee",
-    "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png"
-    },
-    {
-    "name": "Snorlax",
-    "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png"
-    },
-    {
-    "name": "Raikou",
-    "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/243.png"
-    },
-    {
-    "name": "Cryogonal",
-    "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/615.png"
-    },
-    {
-    "name": "Pancham",
-    "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/674.png"
-    },
-    {
-    "name": "Entei",
-    "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/244.png"
-    },
-        {
-    "name": "Suicune",
-    "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/245.png"
-    },
-    {
-    "name": "Mudkip",
-    "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/258.png"
-    },
-    {
-    "name": "Meowth",
-    "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/052.png"
-    },
-    {
-    "name": "Jigglypuff",
-    "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png"
-    },
-    {
-    "name": "Duskull",
-    "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/355.png"
-    },
-    {
-    "name": "Wobbuffet",
-    "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/202.png"
-    },
-    {
-    "name": "Darkrai",
-    "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/491.png"
-    },
-    {
-    "name": "Totodile",
-    "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/158.png"
-    },
-    {
-    "name": "Deoxys",
-    "image_url": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/386.png"
+    "name": "Sinx",
+    "image_url": "https://scontent-mnl1-1.xx.fbcdn.net/v/t39.30808-6/405213777_7223336561065113_6677482585083326090_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=9c7eae&_nc_eui2=AeHPPxP5KsPidrY2CcRFo97FSgOcBzZbTVFKA5wHNltNUatIdCG15i4m0qJ3ii0pbUdy5kYrnK3424Q4ruAcUmdi&_nc_ohc=g-VWkRFUqzkAX-acRmJ&_nc_ht=scontent-mnl1-1.xx&oh=00_AfAmqhcvdrrmeaJryKN4o_AKDmYRUZ0d91RU9LWQ6gUTDA&oe=65A0F273"
     }
     ]
     }
+
+    

@@ -3,16 +3,15 @@
 
 {% block content %}
 <!--TRAINERS-->
-<a href="{% url 'trainer-add' %}" class="btn btn-outline-primary">Add New Trainer</a><br>
+<a href="{% url 'trainer-add' %}" class="btn btn-outline-primary">Add New Event</a><br>
 <section class="trainers-container">
     <table class="styled-table">
       <tbody>
         <tr>
-          <th>Trainer Name</th>
-          <th>Birthdate</th>
+          <th>Event Name</th>
+          <th>Date</th>
           <th>Location</th>
-          <th>Email</th>
-          <th>Action</th>
+          <th>Email of Organizer</th>
         </tr>
         {% for object in object_list %}
         <tr>
@@ -20,10 +19,6 @@
           <td>{{ object.birthdate }}</td>
           <td>{{ object.location }}</td>
           <td>{{ object.email}} </td>
-          <td>
-            <a href="trainer_list/{{ object.id }}" >Edit</a> |
-            <a href="trainer_list/{{ object.id }}/delete" >Delete</a>
-          </td>
         </tr>
         {% empty %}
                 <tr>
